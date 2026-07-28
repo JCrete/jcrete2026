@@ -6,7 +6,7 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 1         | 09:30 - 10:30  | CRIU Cold Restart (Goran) | Maven over Docker (Oleg) | Valhalla AOD everything (Remin) | Why not deploying faster with AI? (Ljubisa) | JSPec AI Working Group (Zoran) | Analog Computing (Thaddeus) | AI Good Bad & Ugly (Marcus) |
 | 2         | 10:30 - 11:30  | Open Source Health & the future of OS (Andres & Michael) | Analog Computing (Thaddeus) | 2029 CS graduates (Cay) | Better AI Prompts (Cliff) | How to unslop development (Finkelshteyn) | MCPs and Java standardisation (Drazen) |
-| 3         | 11:45 - 12:45  | Do you need ID in the era of AI Agents? (Anton) | AI is going to... (Jens) | How to get others care about modern Java (Sven)| SSF Framework (Thomas) | Java can do Data Science too () | How AI will change encyrption in 5 years (Commer) |
+| 3         | 11:45 - 12:45  | Do you need ID in the era of AI Agents? (Anton) | [AI is going to... (Jens)](https://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/) | How to get others care about modern Java (Sven)| SSF Framework (Thomas) | Java can do Data Science too () | How AI will change encyrption in 5 years (Commer) |
 
 ## Day 2 (28.07.2026)
 

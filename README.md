@@ -2,11 +2,11 @@
 
 ## Day 1 (27.07.2026)
 
-| Session # | Time/Room      | Main Room    | MX        | MS      | Library   | In         | Out |
-|-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
-| 1         | 09:30 - 10:30  | CRIU Cold Restart (Goran) | Maven over Docker (Oleg) | Valhalla AOD everything (Remin) | Why not deploying faster with AI? (Ljubisa) | JSPec AI Working Group (Zoran) | Analog Computing (Thaddeus) | AI Good Bad & Ugly (Marcus) |
-| 2         | 10:30 - 11:30  | Open Source Health & the future of OS (Andres & Michael) | Analog Computing (Thaddeus) | 2029 CS graduates (Cay) | Better AI Prompts (Cliff) | How to unslop development (Finkelshteyn) | MCPs and Java standardisation (Drazen) |
-| 3         | 11:45 - 12:45  | Do you need ID in the era of AI Agents? (Anton) | [AI is going to... (Jens)](https://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/) | How to get others care about modern Java (Sven)| SSF Framework (Thomas) | Java can do Data Science too () | How AI will change encyrption in 5 years (Commer) |
+| Session # | Time/Room      | Main Room    | MX        | MS                                                                                          | Library   | In                                       | Out |
+|-----------|----------------|--------------|-----------|---------------------------------------------------------------------------------------------|-----------|------------------------------------------|-----|
+| 1         | 09:30 - 10:30  | CRIU Cold Restart (Goran) | Maven over Docker (Oleg) | Valhalla AOD everything (Remin)                                                             | Why not deploying faster with AI? (Ljubisa) | JSPec AI Working Group (Zoran)           | Analog Computing (Thaddeus) | AI Good Bad & Ugly (Marcus) |
+| 2         | 10:30 - 11:30  | Open Source Health & the future of OS (Andres & Michael) | Analog Computing (Thaddeus) | 2029 CS graduates (Cay)                                                                     | Better AI Prompts (Cliff) | How to unslop development (Finkelshteyn) | MCPs and Java standardisation (Drazen) |
+| 3         | 11:45 - 12:45  | Do you need ID in the era of AI Agents? (Anton) | [AI is going to... (Jens)](https://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/) | [How to get others care about modern Java](./day-1/care-about-modern-java/README.md) (Sven) | SSF Framework (Thomas) | Java can do Data Science too ()          | How AI will change encyrption in 5 years (Commer) |
 
 ## Day 2 (28.07.2026)
 
@@ -14,15 +14,15 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 4         | 09:15 - 10:15  |       -      | AI Isolation Practices (Oleg)   | [A Simple Compiler (C2 style) (Cliff)](https://github.com/SeaOfNodes) | Hobbies not AI (Andres) | - | AI in SDLC Non-Code (Gregorz) |
 | 5         | 10:30 - 11:30  | What to teach and how (Felix) | Profiling in the era of AI (Marcus) | Grammars (Remi) | Post senior career path in AI world (Michal) | JEP 540: Simple JSON (Cay) | Data for AI (Piotr) |
-| 6         | 11:45 - 12:45  | 8 levels of agentic AI (David) | Proper Vibe Coding (Pasha & Viktor) | How do we teach next generation in the era of change () | How did you become a freelancer and why? (Michal) | Loom structured concurrency (Jose) | Trouble with memory (Kirk) | 
+| 6         | 11:45 - 12:45  | 8 levels of agentic AI (David) | Proper Vibe Coding (Pasha & Viktor) | How do we teach next generation in the era of change () | How did you become a freelancer and why? (Michal) | [Loom structured concurrency (Jose)](https://openjdk.org/jeps/491) | Trouble with memory (Kirk) | 
 
 ## Day 3 (29.07.2026)
 
 | Session # | Time/Room      | Main Room    | MX        | MS      | Library   | In         | Out |
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
-| 7         | 09:15 - 10:15  |              |           |         |           |            |     |
-| 8         | 10:30 - 11:30  |              |           |         |           |            |     |
-| 9         | 11:45 - 12:45  |              |           |         |           |            |     |
+| 7         | 09:15 - 10:15  | Spec Driven Development (Viktor & Ina) | Legal impacts of AI () | Pushing a PR to OpenJDK (Heinz) | History of Crete (Marko) | Building Personal Assistants with AI (Oleg) | Value of developers in terms of organisations value (Anita) |
+| 8         | 10:30 - 11:30  | Performance Heuristics (Jakub) | JVM performance in the cloud; Docker ... to run Java (Goran & Ivan) | Scoped Values (Loom) (Jose) | Valhalla part 2 (Remi) | Spare Time Agentic Projects (Chris) | Overcoming Impostor Syndrome in Tech (Vincent) |
+| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Liubisa) | Fast x86 emulation in Java (Ian) | Self Awareness for introverts (Cliff) | Nix OS () | Local AI (Yorgos) | javac tricky parts (Jan) |
 
 ## Day 4 (30.07.2026)
 

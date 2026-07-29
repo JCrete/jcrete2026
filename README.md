@@ -22,7 +22,7 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 7         | 09:15 - 10:15  | Spec Driven Development (Viktor & Ina) | Legal impacts of AI () | Pushing a PR to OpenJDK (Heinz) | History of Crete (Marko) | Building Personal Assistants with AI (Oleg) | Value of developers in terms of organisations value (Anita) |
 | 8         | 10:30 - 11:30  | Performance Heuristics (Jakub) | JVM performance in the cloud; Docker ... to run Java (Goran & Ivan) | Scoped Values (Loom) (Jose) | Valhalla part 2 (Remi) | Spare Time Agentic Projects (Chris) | Overcoming Impostor Syndrome in Tech (Vincent) |
-| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Liubisa) | Fast x86 emulation in Java (Ian) | Self Awareness for introverts (Cliff) | Nix OS () | Local AI (Yorgos) | javac tricky parts (Jan) |
+| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Ljubisa) | Fast x86 emulation in Java (Ian) | Self Awareness for introverts (Cliff) | Nix OS () | Local AI (Yorgos) | javac tricky parts (Jan) |
 
 ## Day 4 (30.07.2026)
 
@@ -33,7 +33,7 @@
 | 12        | 16:45 - 17:45  |              |           |         |           |            |     |
 
 ## Day 5 - Hackday (31.07.2026)
-* JCrete4kids 2026 preperation for stewards
+* JCrete4kids 2026 preparation for stewards
 
 ## Day 6 JCrete4Kids Chania (01.08.2026)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/)

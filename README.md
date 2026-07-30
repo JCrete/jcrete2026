@@ -28,9 +28,9 @@
 
 | Session # | Time/Room      | Main Room    | MX        | MS      | Library   | In         | Out |
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
-| 10        | 14:15 - 15:15  |              |           |         |           |            |     |
-| 11        | 15:30 - 16:30  |              |           |         |           |            |     |
-| 12        | 16:45 - 17:45  |              |           |         |           |            |     |
+| 10        | 14:15 - 15:15  | GraalVM native image (Foivos) | AI tips & tricks for diagnosing running apps (Marcus) | Is DOP the new OOP (Cay) | Early career professionals + From Good to Great journeys (Kaitlyn + Yakub + Commer) | Intellij Idea Tips & Tricks (Marit) | Hobbies (Andres) |
+| 11        | 15:30 - 16:30  | What Good can we do? (Ben) | Architecting the unpredic table (Ivor) | Quiz 10 questions (Jose) | Space (Sven) | Ideal Java AI harness (Alex) | Security in Java and around (Pascha) |
+| 12        | 16:45 - 17:45  | Code Reading; JFlatterner (Lefteris) | Hardwood (lib for parquet) (Gunmar) | Babylon (Remi + Cliff) | Making Space to Speak (Simons) | From Compressed Oops to Compact Headers inside the JVM (Sven W.) | Surviving AI Hype cycle without burnout (Ljuibisa) |
 
 ## Day 5 - Hackday (31.07.2026)
 * JCrete4kids 2026 preparation for stewards

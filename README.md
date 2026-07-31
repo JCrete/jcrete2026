@@ -37,4 +37,4 @@
 
 ## Day 6 JCrete4Kids Chania (01.08.2026)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/) and the [slides](https://docs.google.com/presentation/d/14Qjy2q5d2hVa6HOFvROa6YU2JXkbXVJE-psk0ryGuGE/edit?usp=drivesdk)
-* Let's Make 3D Games with Codex (Kaitlyn Hornbuckle) [EN](https://canva.link/ai-java)|[EL]()
+* Let's Make 3D Games with Codex (Kaitlyn Hornbuckle) [EN](https://canva.link/ai-java)|[EL](https://canva.link/ai-java-el)

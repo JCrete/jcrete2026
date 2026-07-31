@@ -6,7 +6,7 @@
 |-----------|----------------|--------------|-----------|---------------------------------------------------------------------------------------------|-----------|------------------------------------------|-----|
 | 1         | 09:30 - 10:30  | CRIU Cold Restart (Goran Opacic) | Maven over Docker (Oleg Šelajev) | Valhalla AOD everything (Remi Forax)                                                             | Why not deploying faster with AI? (Ljubisa Punosevac) | JSPec AI Working Group (Zoran Sevarac)           | Analog Computing (Thaddeus Müller-Sarnowski) | AI Good Bad & Ugly (Marcus) |
 | 2         | 10:30 - 11:30  | Open Source Health & the future of OS (Andres Almiray & Michael) | Analog Computing (Thaddeus Müller-Sarnowski) | 2029 CS graduates (Cay Horstmann)                                                                     | Better AI Prompts (Cliff Click) | How to unslop development (Pasha Finkelshteyn) | [MCPs and Java standardisation (Drazen Nikolic)](/day-1/session2/mcps-and-java.md) |
-| 3         | 11:45 - 12:45  | Do you need ID in the era of AI Agents? (Anton Arhipov) | [AI is going to... (Jens)](https://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/) | [How to get others care about modern Java](./day-1/session3/care-about-modern-java/README.md) (Sven W.) | SSF Framework (Thomas) | Java can do Data Science too ()          | How AI will change encyrption in 5 years (Connor Whiting) |
+| 3         | 11:45 - 12:45  | Do you need ID in the era of AI Agents? (Anton Arhipov) | [AI is going to... (Jens)](https://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/) | [How to get others care about modern Java](./day-1/session3/care-about-modern-java/README.md) (Sven Woltmann) | SSF Framework (Thomas) | Java can do Data Science too ()          | How AI will change encyrption in 5 years (Connor Whiting) |
 
 ## Day 2 (28.07.2026)
 
@@ -30,7 +30,7 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 10        | 14:15 - 15:15  | GraalVM native image (Foivos Zakkak) | AI tips & tricks for diagnosing running apps (Marcus) | Is DOP the new OOP (Cay Horstnmann) | Early career professionals + From Good to Great journeys (Kaitlyn Hornbuckle + Yakub + Connor Whiting) | Intellij Idea Tips & Tricks (Marit) | Hobbies (Andres Almiray) |
 | 11        | 15:30 - 16:30  | What Good can we do? (Ben Evans) | Architecting the unpredic table (Ivor) | Quiz 10 questions (Jose Paumard) | Space (Sven Reimers) | Ideal Java AI harness (Alex) | Security in Java and around (Pasha Finkelshteyn) |
-| 12        | 16:45 - 17:45  | Code Reading; JFlatterner (Lefteris) | Hardwood (lib for parquet) (Gunmar) | Babylon (Remi Forax + Cliff Click) | Making Space to Speak (Simons) | [From Compressed Oops to Compact Headers: Inside the JVM (Sven W.)](./day-4/session12/compact-object-headers/README.md) | Surviving AI Hype cycle without burnout (Ljubiša Punoševac) |
+| 12        | 16:45 - 17:45  | Code Reading; JFlatterner (Lefteris) | Hardwood (lib for parquet) (Gunmar) | Babylon (Remi Forax + Cliff Click) | Making Space to Speak (Simons) | [From Compressed Oops to Compact Headers: Inside the JVM (Sven Woltmann)](./day-4/session12/compact-object-headers/README.md) | Surviving AI Hype cycle without burnout (Ljubiša Punoševac) |
 
 ## Day 5 - Hackday (31.07.2026)
 * JCrete4kids 2026 preparation for stewards

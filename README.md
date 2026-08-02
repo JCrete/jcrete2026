@@ -22,7 +22,7 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 7         | 09:15 - 10:15  | [Spec Driven Development (Viktor Gamov & Ina Bumstein)](./day-3/session7/spec-driven-development/README.md) | Legal impacts of AI (Adèle Paumard) | Pushing a PR to OpenJDK (Heinz Kabutz) | History of Crete (Marko Sevarac) | Building Personal Assistants with AI (Oleg Šelajev) | Value of developers in terms of organisations value (Anita Przybył) |
 | 8         | 10:30 - 11:30  | Performance Heuristics (Jakub Łątkiewicz) | JVM performance in the cloud; Docker ... to run Java (Goran Opacic & Ivan) | Scoped Values (Loom) (José Paumard) | Valhalla part 2 (Remi Forax) | Spare Time Agentic Projects (Christoph Engelbert) | Overcoming Impostor Syndrome in Tech (Vincent Mayers) |
-| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Ljubisa) | Fast x86 emulation in Java (Ian) | Self Awareness for introverts (Cliff) | Nix OS () | Local AI (Yorgos) | [javac tricky parts (Jan)](./day-3/session9/javac) |
+| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Ljubisa) | Fast x86 emulation in Java (Ian) | Self Awareness for introverts (Cliff Click) | Nix OS () | Local AI (Yorgos) | [javac tricky parts (Jan)](./day-3/session9/javac) |
 
 ## Day 4 (30.07.2026)
 

@@ -33,7 +33,10 @@
 | 12        | 16:45 - 17:45  | Code Reading; JFlatterner (Lefteris) | Hardwood (lib for parquet) (Gunmar) | Babylon (Remi Forax + Cliff Click) | Making Space to Speak (Simons) | [From Compressed Oops to Compact Headers: Inside the JVM (Sven Woltmann)](./day-4/session12/compact-object-headers/README.md) | Surviving AI Hype cycle without burnout (Ljubiša Punoševac) |
 
 ## Day 5 - Hackday (31.07.2026)
-* JCrete4kids 2026 preparation for stewards
+* JCrete4kids 2026 preparation for stewards (Ioannis Kostaras)
+* [Valhalla (Cay Horstmann)](https://horstmann.com/presentations/2026/jfokus-valhalla/#(1))
+* [Hack Simple (Cliff Click)](https://github.com/SeaOfNodes)
+* [Hack JTaccuino (Sven Reimers)](https://github.com/jtaccuino/jtaccuino)
 
 ## Day 6 JCrete4Kids Chania (01.08.2026)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/) and the [slides](https://docs.google.com/presentation/d/14Qjy2q5d2hVa6HOFvROa6YU2JXkbXVJE-psk0ryGuGE/edit?usp=drivesdk)

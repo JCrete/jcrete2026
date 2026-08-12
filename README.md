@@ -22,15 +22,15 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 7         | 09:15 - 10:15  | [Spec Driven Development (Viktor Gamov & Ina Bumstein)](./day-3/session7/spec-driven-development/README.md) | Legal impacts of AI (Adèle Paumard) | Pushing a PR to OpenJDK (Heinz Kabutz) | History of Crete (Marko Sevarac) | Building Personal Assistants with AI (Oleg Šelajev) | Value of developers in terms of organisations value (Anita Przybył) |
 | 8         | 10:30 - 11:30  | Performance Heuristics (Jakub Łątkiewicz) | JVM performance in the cloud; Docker ... to run Java (Goran Opacic & Ivan) | Scoped Values (Loom) (José Paumard) | Valhalla part 2 (Remi Forax) | Spare Time Agentic Projects (Christoph Engelbert) | Overcoming Impostor Syndrome in Tech (Vincent Mayers) |
-| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Ljubisa) | Fast x86 emulation in Java (Ian) | Self Awareness for introverts (Cliff Click) | Nix OS () | Local AI (Yorgos) | [javac tricky parts (Jan)](./day-3/session9/javac) |
+| 9         | 11:45 - 12:45  | Run only tests relevant to code change (Ljubisa) | Fast x86 emulation in Java (Ian) | [Self Awareness for introverts (Cliff Click)](./day-3/session9/SelfAwareness/2018_AWarOfWords.pdf) | Nix OS () | Local AI (Yorgos) | [javac tricky parts (Jan)](./day-3/session9/javac) |
 
 ## Day 4 (30.07.2026)
 
 | Session # | Time/Room      | Main Room    | MX        | MS      | Library   | In         | Out |
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
-| 10        | 14:15 - 15:15  | GraalVM native image (Foivos Zakkak) | AI tips & tricks for diagnosing running apps (Marcus) | Is DOP the new OOP (Cay Horstnmann) | Early career professionals + From Good to Great journeys (Kaitlyn Hornbuckle + Yakub + Connor Whiting) | Intellij Idea Tips & Tricks (Marit) | Hobbies (Andres Almiray) |
+| 10        | 14:15 - 15:15  | GraalVM native image (Foivos Zakkak) | AI tips & tricks for diagnosing running apps (Marcus) | Is DOP the new OOP (Cay Horstnmann) | [Early career professionals + From Good to Great journeys (Kaitlyn Hornbuckle + Yakub + Connor Whiting)](./day-4/session10/early_career_professionals/README.md) | Intellij Idea Tips & Tricks (Marit) | Hobbies (Andres Almiray) |
 | 11        | 15:30 - 16:30  | What Good can we do? (Ben Evans) | Architecting the unpredic table (Ivor) | Quiz 10 questions (Jose Paumard) | Space (Sven Reimers) | Ideal Java AI harness (Alex) | Security in Java and around (Pasha Finkelshteyn) |
-| 12        | 16:45 - 17:45  | [Code Reading & JFlattener (Eleftherios Chrysochoidis)](./day-4/session12/code-reading-jflattener/README.md) | Hardwood (lib for parquet) (Gunmar) | Babylon (Remi Forax + Cliff Click) | Making Space to Speak (Simons) | [From Compressed Oops to Compact Headers: Inside the JVM (Sven Woltmann)](./day-4/session12/compact-object-headers/README.md) | Surviving AI Hype cycle without burnout (Ljubiša Punoševac) |
+| 12        | 16:45 - 17:45  | Code Reading; JFlatterner (Lefteris) | Hardwood (lib for parquet) (Gunmar) | Babylon (Remi Forax + Cliff Click) | Making Space to Speak (Simons) | [From Compressed Oops to Compact Headers: Inside the JVM (Sven Woltmann)](./day-4/session12/compact-object-headers/README.md) | Surviving AI Hype cycle without burnout (Ljubiša Punoševac) |
 
 ## Day 5 - Hackday (31.07.2026)
 * JCrete4kids 2026 preparation for stewards (Ioannis Kostaras)

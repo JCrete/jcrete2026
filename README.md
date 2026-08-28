@@ -14,7 +14,7 @@
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|-----|
 | 4         | 09:15 - 10:15  |       -      | [AI Isolation Practices (Oleg Šelajev)](./day-2/session4/ai-isolation-practices) | [A Simple Compiler (C2 style) (Cliff Click)](https://github.com/SeaOfNodes) | Hobbies not AI (Andres Almiray) | - | AI in SDLC Non-Code (Grzegorz Piwowarek) |
 | 5         | 10:30 - 11:30  | What to teach and how (Felix Müller-Sarnowski) | Profiling in the era of AI (Marcus Hirt) | Grammars (Remi Forax) | Post senior career path in AI world (Michal) | [JEP 540: Simple JSON (Cay Horstmann)](/day-2/session5/simple-json.md) | Data for AI (Piotr Przybył) |
-| 6         | 11:45 - 12:45  | 8 levels of agentic AI (David Tavoularis) | Proper Vibe Coding (Pasha Finkelshteyn & Viktor Gamov) | How do we teach next generation in the era of change () | How did you become a freelancer and why? (Michal) | [Loom structured concurrency (José Paumard)](https://openjdk.org/jeps/491) | Trouble with memory (Kirk Pepperdine) | 
+| 6         | 11:45 - 12:45  | 8 levels of agentic AI (David Tavoularis) | Proper Vibe Coding (Pasha Finkelshteyn & Viktor Gamov) | How do we teach next generation in the era of change () | How did you become a freelancer and why? (Michal) | [Loom structured concurrency (José Paumard)](/day-2/session6/loom-structured-concurrency.md) | Trouble with memory (Kirk Pepperdine) | 
 
 ## Day 3 (29.07.2026)
 
